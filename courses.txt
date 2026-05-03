@@ -1,3 +1,4 @@
 TESD 1050 - Job Seeking Skills
 TESD 1400 - Computer Programming
 TESD 1500 - Database Development
+Chemistry
